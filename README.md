@@ -9,8 +9,8 @@ I'm a Full-Stack Web Developer specializing in the MERN stack, currently in my f
 ## Skills 💻
 
 - Front-end: ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=CSS3) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript) ![React](https://img.shields.io/badge/-React-blue?logo=React) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=Bootstrap) ![React-Bootstrap](https://img.shields.io/badge/-React--Bootstrap-darkblue?logo=React)
-- Back-end: ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=Node.js) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-lightgrey) ![Springboot](https://img.shields.io/badge/-Springboot-brightgreen?logo=Spring) ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?logo=MariaDB) ![Oracle](https://img.shields.io/badge/-Oracle-red?logo=Oracle)
-- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=MongoDB) ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=MySQL) ![PL/SQL](https://img.shields.io/badge/-PL/SQL-yellow?logo=Oracle)
+- Back-end: ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=Node.js) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-lightgrey)  ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?logo=MariaDB) ![Oracle](https://img.shields.io/badge/-Oracle-red?logo=Oracle)
+- Database: ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=MySQL) ![PL/SQL](https://img.shields.io/badge/-PL/SQL-yellow?logo=Oracle)
 - Design: ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-blue) ![AdobeXD](https://img.shields.io/badge/-AdobeXD-purple?logo=Adobe) ![Figma](https://img.shields.io/badge/-Figma-orange?logo=Figma)
 - Other: ![Git](https://img.shields.io/badge/-Git-orange?logo=Git) ![System Design](https://img.shields.io/badge/-System%20Design-lightgrey)
 
