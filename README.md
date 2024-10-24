@@ -1,10 +1,17 @@
-# Hi, I'm Tam Nguyen 👋
+# Tam Nguyen's Resume
 
+## Contact Information
 ![Location](https://img.shields.io/badge/-Calgary,%20Alberta-blue)  
 [![Email](https://img.shields.io/badge/Email-nguyenhoangtam279%40gmail.com-green)](mailto:nguyenhoangtam279@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tam%20Nguyen-blue?logo=linkedin)](https://www.linkedin.com/in/tamnguyen279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tam%20Nguyen-blue?logo=linkedin)](https://www.linkedin.com/in/tamnguyen279)  
+[![GitHub](https://img.shields.io/badge/GitHub-tam279-black?logo=github)](https://www.github.com/tam279)  
 
-I'm an Adaptable Software Development Apprentice with over 8 years of experience in problem-solving and team management, transitioning successfully from the hospitality and supply chain sectors. I'm currently enrolled in the Software Development - Apprenticeship Style program at Bow Valley College and pursuing a Bachelor’s in Computer Science at the University of Lethbridge. Passionate about coding and learning new technologies, I’m interested in developing web applications, improving workflows, and supporting team goals.
+---
+
+## Professional Summary
+Adaptable Software Development Apprentice with over 8 years of experience in problem-solving and team management. Skilled in learning new technologies and applying teamwork and communication skills to software development projects. Proficient in collaborative project work with an interest in developing web applications, improving workflows, and supporting team goals.
+
+---
 
 ## Skills 💻
 
@@ -15,18 +22,46 @@ I'm an Adaptable Software Development Apprentice with over 8 years of experience
 - **Design**: ![UI/UX Design](https://img.shields.io/badge/-UI%2FUX%20Design-blue) ![Figma](https://img.shields.io/badge/-Figma-orange?logo=Figma)  
 - **Other Tools**: ![Git](https://img.shields.io/badge/-Git-orange?logo=Git) ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-lightgrey?logo=Microsoft)  
 
-📚 **Blog Summaries**  
-## [Blog 1: Discovering ReactJS](https://tamdevjourney.blogspot.com/2023/05/blog-post-1-disconvering-reactjs_015955535.html)  
-The first blog post provides an introductory exploration of ReactJS. The blog covers:  
-- Understanding the basics of ReactJS  
-- Setting up the development environment for ReactJS development  
-- Creating the first Hello World project with ReactJS  
+---
 
-## [Blog 2: Diving Deeper into ReactJS](https://tamdevjourney.blogspot.com/2023/05/blog-post-2-diving-deeper-into-reactjs.html)  
-In the second blog post, we dive deeper into the heart of ReactJS. It covers:  
-1. **Introduction to JSX**: Learn about JavaScript XML (JSX), a syntax extension for Javascript, and its advantages.  
-2. **Functional vs. Class Components**: Discover the differences between functional and class components in React, and when to use each.  
-3. **Props vs. State**: Understand the difference between props and state in React and how to use them effectively.  
-4. **Practical Demonstration**: Building a Note-Taking App with React.  
+## Professional Experience
 
-These blogs are intended to give a strong foundation in ReactJS, beginning with understanding ES6 syntax, setting up the development environment, creating a simple React app, and then diving into more advanced topics.
+### Amazon Warehouse YYC1 & YYC4, Calgary, AB
+**Fulfillment Center Associate & Progress Guide** | *May 2020 - Present*  
+- Operated Power Industrial Trucks, Global Trailer Docking and Releasing systems, and Robot Work Cells, adhering to safety standards and achieving productivity goals.
+- Implemented process improvements to enhance operational efficiency and accuracy in trailer ordering and releasing.
+- Coordinated with team members to ensure smooth workflow and timely shipments.
+
+### Emkaofoods (Remote)
+**Web Developer Intern** | *Dec 2023 - Mar 2024*  
+- Revamped the company's website using Shopify Liquid, CSS, and web development skills, resulting in improved user experience and customer engagement.
+- Applied UI/UX design principles to create visually appealing and user-friendly interfaces.
+
+### Nisarga Bioproducts (Remote)
+**UI/UX Developer Intern** | *Mar 2023 - May 2023*  
+- Designed a prototype mobile application using Figma, incorporating UI/UX design principles.
+- Improved user experience by creating visually appealing and intuitive interfaces.
+
+---
+
+## Additional Work Experience
+
+- **Store Manager** | *Hula Poke Market Mall, Calgary, AB* | *Nov 2019 - Mar 2020*  
+- **Casual Bartender/Server** | *Great Events Catering, Calgary, AB* | *Apr 2019 - Dec 2019*  
+- **Food Service Supervisor** | *Nam Vietnamese Kitchen, Calgary, AB* | *Mar 2018 - Nov 2019*  
+- **Kitchen Partner** | *Cactus Club Cafe, Calgary, AB* | *Aug 2017 - Feb 2018*  
+
+---
+
+## Education
+**Software Development Apprenticeship-Style Program** | Bow Valley College | *In Progress*  
+**Bachelor of Computer Science** | University of Lethbridge (Calgary Campus) | *Anticipated 2025* | GPA: 3.85  
+**Diploma in Software Development** | Southern Alberta Institute of Technology | *2023* | GPA: 3.81  
+**Diploma in Hospitality Management** | Southern Alberta Institute of Technology | *2019* | GPA: 3.71  
+
+---
+
+## Highlights of Accomplishments
+- **Problem-Solving:** Enhanced website efficiency by implementing a more user-friendly theme using Shopify Liquid, boosting engagement.
+- **Teamwork:** Led a team of four in developing a project management website for Vitra Service, improving client productivity with a streamlined process using a comprehensive tech stack.
+- **Adaptability:** Successfully transitioned from hospitality to software development, mastering programming concepts and thriving in collaborative environments.
